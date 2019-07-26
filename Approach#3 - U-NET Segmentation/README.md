@@ -1,5 +1,7 @@
 GO TO MASK MAKER FOLDER. FOLLOW README THERE.
 
+***
+
 <table>
   <tr>
     <th>Input</th>
@@ -11,7 +13,8 @@ GO TO MASK MAKER FOLDER. FOLLOW README THERE.
   </tr>
 </table>
 
-
+***
+Sobel is applied on the Output to get final result.
 
 
 
