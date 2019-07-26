@@ -1,3 +1,20 @@
+<table>
+  <tr>
+    <th>Single Dune Input</th>
+    <th>Output</th>
+  </tr>
+  <tr>
+    <td>
+     <img src="https://github.com/ViditLohia/Sand-Dune-Detection-On-MARS/blob/master/CompressedImages/ml1.png" height="400" width="400">
+    </td>
+    <td>
+     <img src="https://github.com/ViditLohia/Sand-Dune-Detection-On-MARS/blob/master/CompressedImages/ml2.png" height="400" width="400">
+    </td>
+  </tr>
+</table>
+
+
+***
 'Main K nearest Neigbors.py' CODE TRAINS THE CLASSIFIER ON THE PARAMETERS EXTRACTED FROM LBP( Local Binary Pattern)
 HISTOGRAMS OF THE IMAGES FROM 'SAND_RIPPLE', 'SAND_FINE' AND 'TERRAIN' FOLDERS PRESENT IN THE 
 DIRECTORY. SAND(RIPPLE OR FINE) IS ASSIGNED PREDICTION 1 AND TERRAIN 0.
@@ -17,5 +34,16 @@ Follow the steps in 'Main K nearest Neigbors.py' file:
 4.The LBP parameter can be changed by changing 'radius' and 'n_points'. (Recommended to use 6 and 15 respectively) 
 
 The image is saved by name output.png.
+***
+The following is the result on the whole dune field:
+
+<table>
+  <tr>
+    <th><img src="https://github.com/ViditLohia/Sand-Dune-Detection-On-MARS/blob/master/CompressedImages/all.png" width=800>
+</th>
+  </tr>
+</table>
+
+
 
 
