@@ -1,9 +1,18 @@
-<img src="https://github.com/ViditLohia/Sand-Dune-Detection-On-MARS/blob/master/CompressedImages/orig.png" width=800 align="center">
+<table>
+  <tr>
+    <th>Dune field from NASA's HiRISE </th>
+      </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/ViditLohia/Sand-Dune-Detection-On-MARS/blob/master/CompressedImages/orig.png" width=800 >
+     </td>
+  </tr>
+</table>
 
 
 This project aims to delineate Martian sand dunes. For more information, refer github-wiki of the project.
 
-########################################################
+***
 
 3 approaches were mainly used:
 
@@ -16,7 +25,7 @@ Uses AI based Artifical Neural Network(ANN) for image classification.
 APPROACH #3:
 Implemented U-NET segmentation.
 
-########################################################
+***
 
 Approach #1 and #2 are image classification approaches hence limited by:
 >>Image traversal is time costly for large resolution images.
@@ -28,7 +37,7 @@ dump the approach mainly because it suffered additionally from:
 
 Approach #3 is a pixel classifier hence fast and more accurate.
 
-########################################################
+***
 
 Go to respective approach folders and follow 'README' there. 
 The project code was tested on Windows 10, python 3.7, keras 2.2.4 and OpenCV 3.4.2.
