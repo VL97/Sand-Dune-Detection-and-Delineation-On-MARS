@@ -1,11 +1,16 @@
 <table>
   <tr>
     <th>Dune field from NASA's HiRISE </th>
+    <th> Final Result from Approach#3 </th> 
       </tr>
   <tr>
     <td>
-      <img src="https://github.com/ViditLohia/Sand-Dune-Detection-On-MARS/blob/master/CompressedImages/orig.png" width=800 >
+      <img src="https://github.com/ViditLohia/Sand-Dune-Detection-On-MARS/blob/master/CompressedImages/orig.png" width=500 >
      </td>
+    <td>
+      <img src="https://github.com/ViditLohia/Sand-Dune-Detection-On-MARS/blob/master/CompressedImages/1%20(1).png" width=500 >
+     </td>
+    
   </tr>
 </table>
 
