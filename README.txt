@@ -1,3 +1,6 @@
+<img src="https://github.com/ViditLohia/Sand-Dune-Detection-On-MARS/blob/master/CompressedImages/orig.png" width=500>
+
+
 This project aims to delineate Martian sand dunes. For more information, refer github-wiki of the project.
 
 ########################################################
