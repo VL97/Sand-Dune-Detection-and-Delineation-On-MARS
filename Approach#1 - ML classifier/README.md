@@ -15,14 +15,7 @@
 
 
 ***
-'Main K nearest Neigbors.py' CODE TRAINS THE CLASSIFIER ON THE PARAMETERS EXTRACTED FROM LBP( Local Binary Pattern)
-HISTOGRAMS OF THE IMAGES FROM 'SAND_RIPPLE', 'SAND_FINE' AND 'TERRAIN' FOLDERS PRESENT IN THE 
-DIRECTORY. SAND(RIPPLE OR FINE) IS ASSIGNED PREDICTION 1 AND TERRAIN 0.
-THE CODE THEN TAKES THE INPUT IMAGE AND TRAVERSES IT IN (100X100) SLICES 
-AND PASSING LBP PARAMETERS OF THE SLICES TO THE CLASSIFIER AND PREDICTING IF 
-OUTPUT IS 0 OR 1. IF ITS 1 IT DRAWS YELLOW CIRCLES ON THE CORNERS OF THE TAKEN 
-IMAGE SLICE AT ITS ORIGINAL COORDINATES IN THE IMAGE_FOR_OUTPUT IMAGE WHICH IS 
-THE ORIGINAL INPUT IMAGE BUT READ TO SUPPORT RGB DRAWING.
+'Main K nearest Neigbors.py'  Code trains the classifier on the parameters extracted from lbp( local binary pattern) histograms of the images from 'sand_ripple', 'sand_fine' and 'terrain' folders present in the directory. Sand(ripple or fine) is assigned prediction 1 and terrain 0. The code then takes the input image and traverses it in (100x100) slices and passing lbp parameters of the slices to the classifier and predicting if output is 0 or 1. If its 1 it draws yellow circles on the corners of the taken image slice at its original coordinates in the image_for_output image which is the original input image but read to support rgb drawing.
 
 
 To get ML based approach output as mentioned in our report:
