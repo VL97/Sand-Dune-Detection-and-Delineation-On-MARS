@@ -15,7 +15,8 @@
 </table>
 
 
-This project aims to delineate Martian sand dunes. For more information, refer github-wiki of the project.
+This project aims to delineate Martian sand dunes. For more information, refer:
+https://github.com/VL97/Sand-Dune-Detection-and-Delineation-On-MARS/wiki
 
 ***
 
