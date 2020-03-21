@@ -23,10 +23,10 @@ https://github.com/VL97/Sand-Dune-Detection-and-Delineation-On-MARS/wiki
 3 approaches were mainly used:
 
 APPROACH #1:
-Uses K-means classifier for image classification.
+We classify slices of images of the dune field as part of/not part of the dune using texture info. Uses K-means classifier.
 
 APPROACH #2:
-Uses CNN for image classification.
+Same as Approach #1 but uses ANN as a binary classifier.
 
 APPROACH #3:
 Uses U-NET segmentation.
@@ -35,7 +35,9 @@ Uses U-NET segmentation.
 
 Approach #1 and #2 are image classification approaches hence limited by:
 >>Image traversal is time costly for large resolution images.
+
 >>There is accuracy bottleneck due to tiling effect in such traversal.
+
 >>Database making and Training is time consuming.
 
 Approach #3 is a pixel classifier hence fast and more accurate.
