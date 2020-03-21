@@ -38,8 +38,6 @@ Approach #1 and #2 are image classification approaches hence limited by:
 
 >>There is accuracy bottleneck due to tiling effect in such traversal.
 
->>Database making and Training is time consuming.
-
 Approach #3 is a pixel classifier hence fast and more accurate.
 
 ***
