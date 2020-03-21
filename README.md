@@ -23,13 +23,13 @@ https://github.com/VL97/Sand-Dune-Detection-and-Delineation-On-MARS/wiki
 3 approaches were mainly used:
 
 APPROACH #1:
-Uses ML based K-means classifier for image classification.
+Uses K-means classifier for image classification.
 
 APPROACH #2:
-Uses AI based Artifical Neural Network(ANN) for image classification.
+Uses CNN for image classification.
 
 APPROACH #3:
-Implemented U-NET segmentation.
+Uses U-NET segmentation.
 
 ***
 
