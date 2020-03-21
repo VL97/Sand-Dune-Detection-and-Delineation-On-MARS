@@ -36,9 +36,6 @@ Uses U-NET segmentation.
 Approach #1 and #2 are image classification approaches hence limited by:
 >>Image traversal is time costly for large resolution images.
 >>There is accuracy bottleneck due to tiling effect in such traversal.
-
-We also implemented a Convolutional Neural Network(CNN) for AI based image classification on slices of the main input image but had to 
-dump the approach mainly because it suffered additionally from:
 >>Database making and Training is time consuming.
 
 Approach #3 is a pixel classifier hence fast and more accurate.
