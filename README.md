@@ -45,7 +45,5 @@ Approach #3 is a pixel classifier hence fast and more accurate.
 Go to respective approach folders and follow 'README' there. 
 The project code was tested on Windows 10, python 3.7, keras 2.2.4 and OpenCV 3.4.2.
 
-In case of any problem feel free to contact:
 
-VIDIT LOHIA: 		91+7048906491		f20170632@goa.bits-pilani.ac.in
 
